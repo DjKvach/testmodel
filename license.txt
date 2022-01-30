@@ -1,0 +1,11 @@
+Model Information:
+* title:	DP course turntable
+* source:	https://sketchfab.com/3d-models/dp-course-turntable-91fefa1ec3324b1793e854d5afbf508e
+* author:	aleksankas (https://sketchfab.com/aleksankas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DP course turntable" (https://sketchfab.com/3d-models/dp-course-turntable-91fefa1ec3324b1793e854d5afbf508e) by aleksankas (https://sketchfab.com/aleksankas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
